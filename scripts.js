@@ -64,7 +64,7 @@ function sendRight() {
         updateScroll();
 
         // URL for the API endpoint
-        const url = 'https://0cbe-34-139-127-161.ngrok-free.app/chat';
+        const url = 'https://52aa-54-160-246-180.ngrok-free.app/chat';
 
         // Data to be sent in the POST request
         const data = {
