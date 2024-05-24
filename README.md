@@ -50,6 +50,7 @@ flask_cors
 aiohttp==3.8.2
 yarl==1.8.1
 frozenlist==1.3.1
+dialogflow
 ```
 
 ## Installation
